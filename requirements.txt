@@ -1,0 +1,9 @@
+telebot
+python-telegram-bot
+pyTelegramBotAPI
+pytz
+pathlib
+DateTime
+aiogram==3.20.0
+APScheduler
+Flask
