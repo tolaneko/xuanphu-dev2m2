@@ -13,7 +13,7 @@ from keep_alive import keep_alive
 keep_alive()
 
 API_TOKEN = "7235634374:AAG9LIwQr6xPJvLF5WxaU3mqjir_S7pUhAc"
-ADMIN_IDS = {7527321649}
+ADMIN_IDS = {6906617636}
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
