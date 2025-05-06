@@ -12,7 +12,7 @@ import logging
 from keep_alive import keep_alive
 keep_alive()
 
-API_TOKEN = "7235634374:AAGanEftvEYUP_K9OhSINPyr5sMDZvXLvME"
+API_TOKEN = "7235634374:AAG9LIwQr6xPJvLF5WxaU3mqjir_S7pUhAc"
 ADMIN_IDS = {7527321649}
 
 bot = Bot(token=API_TOKEN)
